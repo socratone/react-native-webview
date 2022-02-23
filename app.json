@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "react-native-webview-example",
+    "slug": "react-native-webview-example",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
